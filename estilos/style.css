@@ -28,9 +28,9 @@ main {
 section.telefone {
     position: absolute;
     top: 50%;
-    left: 47%;
+    left: 45%;
     transform: translate(-50%, -50%);
-    width: 330px;
+    width: 350px;
     height: 627px;
     background-color: blue;
     background: url(../imagens/frame-iphone.png) no-repeat;
